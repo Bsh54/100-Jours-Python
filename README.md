@@ -1,7 +1,7 @@
 # 🐍 100 Jours de Python
 
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)
-![Progress](https://img.shields.io/badge/Progr%C3%A8s-30%2F100%20Jours-green.svg)
+![Progress](https://img.shields.io/badge/Progr%C3%A8s-40%2F100%20Jours-green.svg)
 ![Language](https://img.shields.io/badge/Langue-Fran%C3%A7ais-red.svg)
 ![License](https://img.shields.io/badge/license-MIT-important.svg)
 
@@ -19,13 +19,17 @@ Ce projet est conçu pour être un parcours pédagogique structuré. Chaque jour
 - ⚙️ **Modularité** : Fonctions, paramètres et gestion de la portée.
 - 🏛️ **POO** : Programmation Orientée Objet (Classes, Héritage, Polymorphisme).
 - 📊 **Automatisation** : Manipulation de fichiers Excel (OpenPyXL) et JSON.
-- 🔍 **Avancé** : Expressions régulières (Regex) et traitement de données.
+- 🔍 **Avancé** : Expressions régulières (Regex), structures de données avancées (heapq, itertools, collections), algorithmes de tri et de recherche.
+- 🌐 **Web & Front-end** : Introduction au HTML5/CSS3, JavaScript (DOM/BOM), et frameworks (Vue.js, Bulma, Bootstrap).
+- 🗄️ **Bases de données** : Fondamentaux de MySQL et langage SQL (DDL, DML, DQL, DCL).
+- 🐧 **Linux** : Maîtrise de la ligne de commande, gestion des processus, et scripting Shell.
+- ⚡ **Programmation Concurrente** : Multithreading, Multiprocessing et Async I/O.
 
 ---
 
-## 📅 Programme du parcours (30 premiers jours)
+## 📅 Programme du parcours (40 premiers jours)
 
-Le projet est actuellement complété jusqu'au **Jour 30**. Voici un aperçu de la progression :
+Le projet est actuellement complété jusqu'au **Jour 40**. Voici un aperçu de la progression :
 
 | Phase | Thèmes principaux | Jours |
 | :--- | :--- | :--- |
@@ -36,7 +40,11 @@ Le projet est actuellement complété jusqu'au **Jour 30**. Voici un aperçu de 
 | **Phase 5** | Programmation Orientée Objet (POO) | [18-20](./Jours_18/) |
 | **Phase 6** | Fichiers, JSON & Automatisation | [21-25](./Jours_21/) |
 | **Phase 7** | Excel & Analyse de données | [26-29](./Jours_26/) |
-| **Phase 8** | Expressions régulières | [30](./Jours_30/) |
+| **Phase 8** | Expressions régulières (Regex) | [30](./Jours_30/) |
+| **Phase 9** | Développement Web Front-end | [31](./Jours_31/) |
+| **Phase 10** | Python Avancé, Algos & Concurrence | [32-33](./Jours_32%20et%20Jours_33/) |
+| **Phase 11** | MySQL & SQL (DDL, DML, DQL, DCL) | [34-40](./Jours_34_et_Jours_35.md/) |
+| **Phase 12** | Administration Linux & Shell | [38](./Jours_38/) |
 
 <details>
 <summary>🔍 Cliquez pour voir le détail quotidien</summary>
@@ -49,6 +57,11 @@ Le projet est actuellement complété jusqu'au **Jour 30**. Voici un aperçu de 
 - **Jour 21-25** : Lecture/Écriture de fichiers texte et gestion des fichiers JSON.
 - **Jour 26-29** : Automatisation Excel avec `openpyxl`, création de feuilles et génération de graphiques.
 - **Jour 30** : Puissance des expressions régulières avec le module `re`.
+- **Jour 31** : Front-end (HTML5, CSS3, JS, Vue.js, Element UI, Bulma, Bootstrap).
+- **Jour 32-33** : Python Avancé (Compréhensions, `collections`, etc.), Algorithmique (Tris, Recherche) et Programmation Concurrente (Threading, Multiprocessing, Asyncio).
+- **Jour 34-37** : Bases de données MySQL, SQL (DDL, DML) et Modélisation ER.
+- **Jour 38** : Système Linux (Commandes, Permissions, Vim, Shell Scripting).
+- **Jour 39-40** : SQL Approfondi (DQL : Requêtes complexes, DCL : Gestion des privilèges).
 </details>
 
 ---
